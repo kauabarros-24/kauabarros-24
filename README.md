@@ -1,10 +1,8 @@
-- 👋 Hi, I’m Kauã Martins Barros
-- 👀 I’m interested in softwares ...
-- 🌱 I’m currently learning python ...
-- 💞️ I’m looking to collaborate on my house ...
-- 📫 How to reach me martinsbarroskaua@gmail.com ...
+# Perfil GitHub
 
-<!---
-kauabarros-24/kauabarros-24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Linguagens Mais Usadas
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu_usuario&layout=compact)
+
+
+
