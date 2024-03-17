@@ -8,8 +8,14 @@
 <a href="https://github.com/kaubarros-24">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauabarros-24&layout=donut&bg_color=141424&title_color=e83d84&text_color=8ef5fa&icon_color=2596be)](https://github.com/kaubarros-24/kaubarros-24"/>
 </a>
-  
 </div>
+</div>
+<a href="https://github.com/kaubarros-24">
+  <p>email: martinsbarroskaua@gmail.com</p>
+  <p>I LOVE PYTHON(and javascript)</p>
+  
+</a>
+#
 
 <div style="display: inline_block width: 45%"><br>
   <img align="center" alt="Jonatas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
