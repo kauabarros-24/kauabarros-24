@@ -5,13 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e83d84&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Kauã+Martins+Barros;I'm+16+years+old;I+am+from+Barra+do+Sul,+SC;👨‍🏫+I'm+student+in+IFC-Araquari;;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 </div>
-
-
-
-<div align="center">
-  <a href="https://github.com/kaubarros-24">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kaubarros-24&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</a>
 <a href="https://github.com/kaubarros-24">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauabarros-24&layout=donut&bg_color=141424&title_color=e83d84&text_color=8ef5fa&icon_color=2596be)](https://github.com/kaubarros-24/kaubarros-24"/>
 </a>
