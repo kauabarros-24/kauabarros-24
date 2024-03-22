@@ -29,10 +29,10 @@
   <img width="9" />
   <img width="9" />
   <img width="40" src="https://vuejs.org/images/logo.png" alt="Vue logo" height="40">
-  <img src="![django](https://github.com/kauabarros-24/kauabarros-24/assets/125659214/236e2d02-13c7-4200-ad61-5339e0777a2e)
-a" height="40" width="40" alt="html5 logo"  />
-
   <h2>Studying In This Moment</h2>
+  <img src="https://github.com/kauabarros-24/kauabarros-24/assets/125659214/3d17fa4d-70c7-46fd-997a-ad2dc7bdb036" height="40" width="40" alt="Django logo"  />
+
+ 
   
   
  <div align="center">
