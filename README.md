@@ -20,7 +20,6 @@
   <img width="40" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" height="50" alt="php logo"  />
   <img width="9" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="50" />
-  <img width="9"/>
   <h2>Frontend</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="html5 logo"  />
   <img width="9" />
@@ -30,7 +29,4 @@
   <img width="9" />
   <img width="9" />
   <img width="40" src="https://vuejs.org/images/logo.png" alt="Vue logo" height="40">
-  <img width="9" />
-  
-  
-<div align="center">
+ <div align="center">
