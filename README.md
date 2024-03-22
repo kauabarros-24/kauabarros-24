@@ -16,12 +16,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="100" width="80" alt="python logo"  />
   <h2>Backend</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="40" alt="python logo"  />
+  <img width="5">
   <img width="40" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" height="50" alt="php logo"  />
+  <img width="5">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="50" />
   <h2>Frontend</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="html5 logo"  />
+  <img width="5">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="css3 logo"  />
+  <img width="5">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="javascript logo"  />
+  <img width="5">
   <img width="40" src="https://vuejs.org/images/logo.png" alt="Vue logo" height="40">
   <h2>Studying In This Moment</h2>
   <img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" height="40" width="63" style="border-radius: 100%;" alt="Django logo" />
