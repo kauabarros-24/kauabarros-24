@@ -29,4 +29,6 @@
   <img width="9" />
   <img width="9" />
   <img width="40" src="https://vuejs.org/images/logo.png" alt="Vue logo" height="40">
+  <h2>Studying In This Moment</h2>
+  
  <div align="center">
