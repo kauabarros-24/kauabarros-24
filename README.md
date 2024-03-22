@@ -15,17 +15,6 @@
   <h2>Main Knowledge</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="40" alt="python logo"  />
   <br>
-  <h2>Frontend</h2>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="html5 logo"  />
-  <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="css3 logo"  />
-  <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="javascript logo"  />
-  <img width="9" />
-  <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="45" height="40">
-  <img width="9" />
-  <img width="40" src="https://vuejs.org/images/logo.png" alt="Vue logo" height="40">
-  <img width="9" />
   <h2>Backend</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="40" alt="python logo"  />
   <img width="9" />
@@ -33,6 +22,16 @@
   <img width="9" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="50" />
   <img width="9"/>
+  <h2>Frontend</h2>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="html5 logo"  />
+  <img width="9" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="css3 logo"  />
+  <img width="9" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="javascript logo"  />
+  <img width="9" />
+  <img width="9" />
+  <img width="40" src="https://vuejs.org/images/logo.png" alt="Vue logo" height="40">
+  <img width="9" />
   
   
 <div align="center">
