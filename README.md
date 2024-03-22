@@ -30,7 +30,7 @@
   <img width="9" />
   <img width="40" src="https://vuejs.org/images/logo.png" alt="Vue logo" height="40">
   <h2>Studying In This Moment</h2>
-  <img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" height="50" width="40" alt="Django logo"  />
+  <img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" height="40" width="63" style="border-radius: 100%;" alt="Django logo" />
 
  
   
