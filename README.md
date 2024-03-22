@@ -28,11 +28,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="javascript logo"  />
   <img width="5">
   <img width="40" src="https://vuejs.org/images/logo.png" alt="Vue logo" height="40">
-  <h2>Studying In This Moment</h2>
-  <img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" height="50" width="70" style="border-radius: 100;" alt="Django logo" />
-  <img width="5">
-  <img src="https://github.com/kauabarros-24/kauabarros-24/assets/125659214/ebbaa30e-edb2-41a5-ab07-82e669ed1ad1" height="40" width="63" alt="Django logo" />
-  
-
-  
- <div align="center">
+<div align="center">
