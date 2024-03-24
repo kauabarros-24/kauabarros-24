@@ -7,7 +7,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kauabarros-24&bg_color=30,6A00C9,00736E&title_color=fff&text_color=fff" />
 </a>
 <a href="https://github.com/kauabarrros">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauabarros-24&layout=donut&bg_color=141424&title_color=22A7F0&text_color=8ef5fa&icon_color=2596be)](https://github.com/kauabarros"/ >
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauabarros-24&layout=donut&bg_color=141424&title_color=22A7F0&text_color=8ef5fa&icon_color=2596be)](https://github.com/kauabarros-24"/ >
 </a>
 </div>
 
