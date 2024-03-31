@@ -28,4 +28,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="javascript logo"  />
   <img width="5">
   <img width="40" src="https://vuejs.org/images/logo.png" alt="Vue logo" height="40">
+  <h2>Python is cool</h2>
 <div align="center">
