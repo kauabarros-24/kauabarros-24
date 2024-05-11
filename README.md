@@ -29,3 +29,5 @@
   <img width="5">
   <img width="40" src="https://vuejs.org/images/logo.png" alt="Vue logo" height="40">
 <div align="center">
+<hr>
+<h3>Email para contado: martinsbarroskaua@gmail.com</h3>
