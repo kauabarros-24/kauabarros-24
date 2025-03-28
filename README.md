@@ -17,8 +17,6 @@
   <img width="5">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50" width="40" alt="fastapi logo" />
   <img width="5">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" width="40" alt="mysql logo" />
-  <img width="5">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" width="40" alt="nodejs logo" />
   <img width="5">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="40" alt="javascript logo" />
@@ -65,9 +63,11 @@
   <img width="5">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="40" alt="linux logo" />
   <img width="5">
+  <img width="5">
   <img src="https://www.gstatic.com/images/branding/product/1x/assistant_48dp.png" height="40" width="40" alt="chatgpt logo" />
   <img width="5">
   <img src="https://www.gstatic.com/images/branding/product/1x/chat_48dp.png" height="40" width="40" alt="gemini logo" />
   <img width="5">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="40" alt="npm logo" />
+  <img width="5">
 </div>
