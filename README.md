@@ -4,8 +4,8 @@
   <a href="https://github.com/kauabarros-24">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kauabarros-24&bg_color=30,6A00C9,00736E&title_color=fff&text_color=fff" />
   </a>
-  <a href="https://github.com/kauabarrros">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauabarros-24&layout=donut&bg_color=141424&title_color=22A7F0&text_color=8ef5fa&icon_color=2596be" />
+  <a href="https://github.com/kauabarros-24">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauabarros-24&layout=donut&bg_color=30,6A00C9,00736E&title_color=fff&text_color=fff" />
   </a>
 </div>
 
@@ -32,9 +32,9 @@
   <img width="5">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" width="40" alt="pandas logo" />
   <img width="5">
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="50" width="40" alt="bert logo" />
-  <img width="5">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" width="40" alt="mysql logo" />
+  <a href="https://huggingface.co">
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="50" width="40" alt="huggingface logo" />
+  </a>
   <img width="5">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" width="40" alt="postgresql logo" />
   <img width="5">
@@ -58,9 +58,4 @@
   <img width="5">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="40" alt="linux logo" />
   <img width="5">
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" width="40" alt="huggingface logo" />
-  <img width="5">
-  <img src="https://git-lfs.github.com/img/icon.svg" height="40" width="40" alt="git-lfs logo" />
-  <img width="5">
-  <img src="https://www.mercadopago.com/org-img/MP3/logoMP.png" height="40" width="40" alt="mercadopago api logo" />
 </div>
