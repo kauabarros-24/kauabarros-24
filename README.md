@@ -65,8 +65,6 @@
   <img width="5">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="40" alt="linux logo" />
   <img width="5">
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" width="40" alt="huggingface logo" />
-  <img width="5">
   <img src="https://www.gstatic.com/images/branding/product/1x/assistant_48dp.png" height="40" width="40" alt="chatgpt logo" />
   <img width="5">
   <img src="https://www.gstatic.com/images/branding/product/1x/chat_48dp.png" height="40" width="40" alt="gemini logo" />
