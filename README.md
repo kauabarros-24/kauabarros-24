@@ -57,7 +57,7 @@
 </div>
 
 <div align="center">
-  <h2>Other</h2>
+  <h2>Others</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="git logo" />
   <img width="5">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="40" alt="bash logo" />
