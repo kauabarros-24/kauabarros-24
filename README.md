@@ -26,7 +26,7 @@
 </div>
 
 <div align="center">
-  <h2>Data Science</h2>
+  <h2>AI & Mlops</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" width="40" alt="pytorch logo" />
   <img width="5">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" width="40" alt="numpy logo" />
