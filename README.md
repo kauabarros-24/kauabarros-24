@@ -1,14 +1,3 @@
-<h2 align="center" style="color: #e83d84;">Hello Guys!</h2>
-
-<div align="center">
-  <a href="https://github.com/kauabarros-24">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kauabarros-24&bg_color=30,6A00C9,00736E&title_color=fff&text_color=fff" />
-  </a>
-  <a href="https://github.com/kauabarrros">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauabarros-24&layout=donut&bg_color=141424&title_color=22A7F0&text_color=8ef5fa&icon_color=2596be" />
-  </a>
-</div>
-
 <div align="center">
   <h2>Backend</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="40" alt="python logo" />
